@@ -9,6 +9,6 @@ int minus(int a, int b)
 int main()
 {
 	std::cout << "Hello World" << std::endl;
-	std::cout << "3" << std::endl;
+	std::cout << "4" << std::endl;
 	return 0;
 }
